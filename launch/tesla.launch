@@ -1,0 +1,4 @@
+<launch>
+    <node name="" pkg="gesture_teleop" type="tesla_detect.py" output="screen"/>
+    <node name="" pkg="gesture_teleop" type="tesla_teleop.py" output="screen"/>
+</launch>
