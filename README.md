@@ -30,3 +30,11 @@
 ### Demo video
 https://www.youtube.com/watch?v=KIFebzCm9UU
 
+### Reference
+* https://www.youtube.com/watch?v=lvt_i8tVSfs  ( Vedio imitation )
+* https://emanual.robotis.com/docs/en/platform/turtlebot3/overview/  ( Turtlebot e-Manual )
+* https://www.ncnynl.com/archives/202111/4820.html  ( Raspberry Pi Camera Setup )
+* https://youtu.be/vQZ4IvB07ec  ( hand joint detection )
+* https://github.com/HaofanYang/gesture-recognition-ros-pkg#dependencies-overview  ( Hand Gesture Recognition  )
+
+
